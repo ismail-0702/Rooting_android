@@ -19,3 +19,6 @@ Verfication du boot.
 <img width="935" height="89" alt="Capture d&#39;écran 2026-02-14 162647" src="https://github.com/user-attachments/assets/d9dd7e9c-8f61-4d46-b153-a7e7943f3275" />
 Remise à zéro AVD
 <img width="766" height="413" alt="Capture d&#39;écran 2026-02-14 165155" src="https://github.com/user-attachments/assets/8933f56d-8db1-4a46-87c5-4d8f2a192679" />
+
+[Rooting android.docx](https://github.com/user-attachments/files/25318419/Rooting.android.docx)
+
